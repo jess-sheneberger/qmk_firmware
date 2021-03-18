@@ -4,7 +4,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [Andreas Zeiler](https://github.com/yourusername)
+* Keyboard Maintainer: [Andreas Zlr](https://github.com/andimoto)
 * Hardware Supported: Teensy2
 * Hardware Availability: https://github.com/andimoto/keebcu/tree/master/stl/andimotoSmallTKLiso
 
