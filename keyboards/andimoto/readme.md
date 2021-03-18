@@ -4,7 +4,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [andimoto](https://github.com/andimoto/qmk_firmware/tree/andimoto/andimoto-7583-promicro-new/keyboards/andimoto)
+* Keyboard Maintainer: [andimoto](https://github.com/andimoto/qmk_firmware/tree/andimoto-keyboards/keyboards/andimoto)
 * Hardware Supported: *Arduino Pro Micro / Teensy2*
 * Hardware Availability: *https://github.com/andimoto/keebcu*
 
