@@ -4,7 +4,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [Andreas Zeiler](https://github.com/yourusername)
+* Keyboard Maintainer: [andimotor](https://github.com/andimoto)
 * Hardware Supported: ArduinoProMicro
 * Hardware Availability: https://github.com/andimoto/keebcu/tree/master/stl/andimotoSmallTKL
 
