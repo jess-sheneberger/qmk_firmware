@@ -1,6 +1,6 @@
 # andimoto keyboards
 
-![andimoto keyboards](https://imgur.com/LXKF0j0)
+[Imgur](https://i.imgur.com/LXKF0j0.jpg)
 
 
 * Keyboard Maintainer: [andimoto](https://github.com/andimoto/qmk_firmware/tree/andimoto-keyboards/keyboards/andimoto)
@@ -47,9 +47,9 @@ Note: Installing gcc-avr on Linux Mint 19.1 (lsb release 18.04, maybe also other
 
 ## More Images
 
-![andimoto7583](https://imgur.com/CVgdmSO)
+[andimoto7583](https://i.imgur.com/CVgdmSO.png)
 <br>
-![andimotoSmallTKL](https://imgur.com/POVk2u2)
+[andimotoSmallTKL](https://i.imgur.com/POVk2u2.png)
 
 Please go into keyboard directory for further informations.
 
