@@ -1,8 +1,7 @@
 # andimoto keyboards
 
-![andimoto keyboards](imgur.com image replace me!)
+![andimoto keyboards](https://imgur.com/LXKF0j0)
 
-*A short description of the keyboard/project*
 
 * Keyboard Maintainer: [andimoto](https://github.com/andimoto/qmk_firmware/tree/andimoto-keyboards/keyboards/andimoto)
 * Hardware Supported: *Arduino Pro Micro / Teensy2*
@@ -14,8 +13,10 @@
 - andimotoSmallTKLiso (Teensy2)
 
 
+## Installation notes
+For installing qmk run: util/qmk_install.sh (for more information see qmk documentation)
 ```
-Note: Installing gcc-avr on Linux Mint 19.1 (maybe also other versions affected) with installed gcc-arm-embedded, gives an error:
+Note: Installing gcc-avr on Linux Mint 19.1 (lsb release 18.04, maybe also other versions affected) with installed gcc-arm-embedded, gives an error:
 
 ... dpkg: Fehler beim Bearbeiten des Archivs /var/cache/apt/archives/gcc-avr_1%3a5.4.0+Atmel3.6.0-1build1_amd64.deb (--unpack):
  Versuch, »/usr/lib/libcc1.so.0.0.0« zu überschreiben, welches auch in Paket gcc-arm-embedded 7-2018q2-1~bionic1 ...
@@ -36,12 +37,19 @@ Note: Installing gcc-avr on Linux Mint 19.1 (maybe also other versions affected)
 - open keymap.c in keymaps/default and set new layout array
   - if using ISO DE (etc.) do:
     __*#include "keymap_german.h"*__
+  - for other languages include apropriate header file
 - build: make andimoto/\<keyboard name>:default
--flash: make andimoto/\<keyboard name>:default:flash
+  - *have fun struggling with array shit of your layout until your keyboard firmware compiles!!*
+- flash: make andimoto/\<keyboard name>:default:flash
+  - enjoy your new awesome keyboard
+  - start building a new one with https://github.com/andimoto/keebcu !
 
 
+## More Images
 
-
+![andimoto7583](https://imgur.com/CVgdmSO)
+<br>
+![andimotoSmallTKL](https://imgur.com/POVk2u2)
 
 Please go into keyboard directory for further informations.
 
