@@ -1,6 +1,6 @@
 # andimoto keyboards
 
-![Imgur](https://i.imgur.com/LXKF0j0.jpg)
+![andimotoSmallTKLiso](https://i.imgur.com/LXKF0j0.jpg)
 
 
 * Keyboard Maintainer: [andimoto](https://github.com/andimoto/qmk_firmware/tree/andimoto-keyboards/keyboards/andimoto)

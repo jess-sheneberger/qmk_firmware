@@ -1,8 +1,7 @@
 # andimotoSmallTKLiso
 
-![andimotoSmallTKLiso](imgur.com image replace me!)
+![andimotoSmallTKLiso](https://imgur.com/gmlfLHG.png)
 
-*A short description of the keyboard/project*
 
 * Keyboard Maintainer: [andimoto](https://github.com/andimoto)
 * Hardware Supported: Teensy2

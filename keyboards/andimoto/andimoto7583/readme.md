@@ -1,6 +1,6 @@
 # andimoto7583
 
-![andimoto7583](imgur.com image replace me!)
+![andimoto7583](https://imgur.com/CVgdmSO.png)
 
 *A short description of the keyboard/project*
 

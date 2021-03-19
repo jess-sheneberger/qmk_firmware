@@ -1,6 +1,6 @@
 # andimotoSmallTKL
 
-![andimotoSmallTKL](imgur.com image replace me!)
+![andimotoSmallTKL](https://imgur.com/POVk2u2.png)
 
 *A short description of the keyboard/project*
 
