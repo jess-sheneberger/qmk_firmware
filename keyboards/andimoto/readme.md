@@ -8,6 +8,7 @@
 * Hardware Availability: *https://github.com/andimoto/keebcu*
 
 ## Supported Keyboards
+- andimoto6064 (ArduinoProMicro)
 - andimoto7583 (ArduinoProMicro)
 - andimotoSmallTKL (ArduinoProMicro)
 - andimotoSmallTKLiso (Teensy2)
