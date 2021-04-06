@@ -1,6 +1,8 @@
 # andimoto6064
 
-![andimoto7583](https://imgur.com/CVgdmSO.png)
+![andimoto6064](https://imgur.com/m7lJJQm)
+
+![andimoto6064](https://imgur.com/UwtBxIY)
 
 *A short description of the keyboard/project*
 
